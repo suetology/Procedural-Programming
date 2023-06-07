@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663431165 source:c:\users\vitas\desktop\uni\pp\uzd_2.7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663511632 source:c:\users\vitas\desktop\uni\pp\uzd_2.7\uzd2.7.c
+	<stdio.h>
+	<stdlib.h>
+

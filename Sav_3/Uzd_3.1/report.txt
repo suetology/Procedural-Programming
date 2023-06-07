@@ -1,0 +1,38 @@
+QUERY2
+897
+Jessie Leben, 4c., avg. 7.0, 4 courses, Physics 5, Algebra 8, Set theory 6, Philosophy 9, languages: English Spanish
+Kylie Smith, 4c., avg. 6.2, 6 courses, Operating systems 9, Physics 5, Computer networks 4, Algebra 7, Operating systems 5, Algorithms 7, languages: English Russian
+Jim de Vito, 2c., avg. 7.8, 4 courses, Algebra 7, Algorithms 10, Computer programming 6, Physics 8, languages: English
+...
+QUERY4
+482
+Jim de Vito, 2c., avg. 7.8, 4 courses, Algebra 7, Algorithms 10, Computer programming 6, Physics 8, languages: English
+Alex Druddle, 3c., avg. 5.5, 4 courses, Algorithms 10, Algebra 4, Discrete mathematics 7, Computer programming 1, languages: English Lithuanian
+Sole Gibbs, 3c., avg. 8.0, 2 courses, Physics 9, Computer networks 9, languages: English Russian
+...
+QUERY5
+250
+Jessie Leben, 4c., avg. 7.0, 4 courses, Physics 5, Algebra 8, Set theory 6, Philosophy 9, languages: English Spanish
+Alice Wood, 3c., avg. 6.0, 2 courses, Philosophy 6, Set theory 6, languages: English
+George Smith, 1c., avg. 8.0, 3 courses, Algorithms 8, Philosophy 9, Set theory 7, languages: English
+...
+QUERY7
+192
+Sole Gibbs, 3c., avg. 8.0, 2 courses, Physics 9, Computer networks 9, languages: English Russian
+Alice Wood, 3c., avg. 6.0, 2 courses, Philosophy 6, Set theory 6, languages: English
+George Smith, 1c., avg. 8.0, 3 courses, Algorithms 8, Philosophy 9, Set theory 7, languages: English
+...
+QUERY8
+79
+Helen Damon, 2c., avg. 7.3, 3 courses, Algebra 5, Calculus 7, Set theory 10, languages: English
+Alice Kesting, 2c., avg. 7.8, 5 courses, Philosophy 6, Set theory 7, Algebra 9, Calculus 7, Computer programming 10, languages: English
+Jim Wozniak, 1c., avg. 5.3, 3 courses, Algebra 5, Algorithms 3, Calculus 8, languages: English
+...
+QUERY13
+51
+Sole Gibbs, 3c., avg. 8.0, 2 courses, Physics 9, Computer networks 9, languages: English Russian
+Jessie Hudson, 4c., avg. 8.3, 4 courses, Computer programming 5, Operating systems 5, Discrete mathematics 10, Discrete mathematics 9, languages: English
+Betty Norman, 4c., avg. 4.0, 5 courses, Physics 5, Calculus 2, Algorithms 3, Computer programming 6, Algorithms 9, languages: English
+...
+QUERY18
+0
